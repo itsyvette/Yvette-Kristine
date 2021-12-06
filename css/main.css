@@ -1,0 +1,127 @@
+
+.active-link {
+    color: #FBA39E;
+    font-weight: bold;
+}
+
+
+ul {
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.slides ul {
+    font-family: 'Hammersmith One',sans-serif;
+}
+.slides p {
+    background-color: #891e37;
+    font-size: 20px;
+}
+
+.slides h4 {
+    color: #891e37;
+}
+
+.sidenav li>a {
+    color: #891e37;
+}
+
+.input-field label { 
+    color: #891e37;
+    font-family: 'Hammersmith One',sans-serif;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly])+label{color: #891e37 !important;}
+input[type=text]:not(.browser-default):focus:not([readonly])
+{ border-bottom: 1px solid #891e37 !important; box-shadow: 0 1px 0 0 #891e37 !important;}
+
+input[type=email]:not(.browser-default):focus:not([readonly])+label{color:#891e37 !important;}
+input[type=email]:not(.browser-default):focus:not([readonly])
+{ border-bottom: 1px solid #891e37 !important; box-shadow: 0 1px 0 0 #891e37 !important;}
+
+textarea {
+    max-height: 100px;
+    border-color: #891e37;
+    border-radius: 5px;
+    align-items: start;
+}
+textarea:focus {
+    outline: none !important;
+    border:1px solid #A94D63 ;
+}
+
+/* Date Picker */
+.datepicker-date-display{
+    background: #891e37 !important;
+}
+.datepicker-table td.is-selected{
+    background: #A94D63 !important;
+}
+.datepicker-cancel{
+    color: #891e37 !important;
+}
+.datepicker-clear{
+    color: #891e37 !important;
+}
+.datepicker-done{
+    color: #891e37 !important;
+}
+.datepicker-table td.is-today{
+    color: #FBA39E !important;
+}
+.dropdown-content li>a {
+    color: #891e37;
+}
+.dropdown-content li> span {
+    color: #891e37;
+}
+.datepicker-calendar-container {
+    color: #891e37 !important;
+}
+
+/* Time Picker */
+.timepicker-digital-display{
+    background: #891e37 !important;
+}
+.timepicker-canvas-bg{
+    fill: #891e37 !important;
+}
+.timepicker-canvas line{
+    stroke: #891e37 !important;
+}
+.timepicker-canvas-bearing{
+    fill: #891e37 !important;
+}
+.timepicker-tick:hover{
+    background: #A94D63 !important;
+}
+.timepicker-tick td.is-selected {
+    background: #891e37 !important;
+}
+.timepicker-close{
+    color: #891e37 !important;
+}
+/* Both date and time pickers */
+button:focus { background-color: #891e37 !important;}
+input[type=text]:not(.browser-default):focus:not([readonly])+label{color: #891e37 !important;}
+input[type=text]:not(.browser-default):focus:not([readonly])
+{ border-bottom: 1px solid #891e37 !important; box-shadow: 0 1px 0 0 #891e37 !important;}
+
+.input-field label{
+    color: #891e37 !important;
+}
+
+.waves-effect input[type="submit"] {
+    color: #FCDCDB;
+    font-family: 'Hammersmith One', sans-serif;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
